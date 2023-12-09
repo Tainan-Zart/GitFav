@@ -1,5 +1,7 @@
 # GitFav - Desafio de Front-end
 
+![foto do projeto](https://github.com/Tainan-Zart/GitFav/blob/main/assets/foto-projeto.png)
+
 
 ## 🚀 Introdução
 O projeto GitFav é um desafio de front-end proposto pela Rocketseat para praticar e aplicar conceitos importantes no desenvolvimento web. O desafio consiste em criar uma interface para exibição de repositórios favoritados no GitHub.
